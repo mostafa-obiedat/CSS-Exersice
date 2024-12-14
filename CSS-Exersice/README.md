@@ -1,5 +1,4 @@
 # CSS-Exersice
-# CSS-Exersice
 ---
 
 # Image1
