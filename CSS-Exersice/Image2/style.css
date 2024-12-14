@@ -1,0 +1,32 @@
+.main{
+    background-color: #fcfaf4;
+    margin:0;
+    width: 750px;
+    border-right:2px solid black;
+    padding-right: 20px;
+}
+.main p{
+    width:200px;
+    height: 105px;
+    background-color: #dedfdf;
+    font-size: small;
+    display: inline-block;
+    margin: 0;
+    margin-left: 20px;
+}
+#midP{
+    width: 84%;
+    height: 50px;
+    padding: 2px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    overflow: auto;
+    font-weight: bold;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left:20px;
+    background-color: #fcfaf4;
+}
+h3{
+    margin-left: 20px;
+}

@@ -1,0 +1,41 @@
+div p{
+    color: blue;
+}
+div a{
+    color: orange;
+}
+span a{
+    color: orange;
+}
+div span a{
+    background-color:yellow ;
+    color: brown;
+}
+/*111 */
+ul li ul li{
+    color: blue;
+}
+ul a{
+    color: red;
+}
+/*Please, Click Me!*/
+ul span {
+    font-weight: bold;
+}
+/*111, red */
+ul li ul span{
+    font-weight: bold;
+}
+/*222, 333*/
+ul ul div li{
+    color: blue;
+}
+/*green, blue*/
+ul div ul div{
+    margin-left: 40px;
+    list-style: none;
+}
+hr{
+    float: left;
+    width: 25%;
+}

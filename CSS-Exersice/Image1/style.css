@@ -1,0 +1,13 @@
+table{
+    border-spacing: 12px;
+}
+td{
+    padding: 6px;
+    border: 2px solid rgb(68, 65, 65);
+    border-radius:5px;
+    padding: 8px;
+    box-shadow: 0 4px 4px rgb(83, 81, 81);
+}
+h3{
+    margin-left: 4px;
+}
