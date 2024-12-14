@@ -27,7 +27,7 @@
 3. **Heading Styling (`<h3>`)**:
    - Positioned slightly to the left (`margin-left: 4px`) for alignment.
 ---
-# Image1
+# Image2
 ---------
 # Floating Articles Layout
 ## HTML Structure
